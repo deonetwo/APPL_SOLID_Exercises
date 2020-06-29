@@ -4,7 +4,7 @@ Repository yang dibuat untuk memenuhi tugas mata kuliah Analisis Perancangan Pra
 ### Nama  : Dewanto Joyo Pramono
 ### NIM   : 181524005
 
-# Penjelasan mengenai task yang telah diselesaikan
+# Penjelasan setiap task
 ## 1. Stream Progress
 Pada task ini konsep yang digunakan adalah Open/Closed Principle dimana source code harus terbuka ketika ada penambahan fitur atau penambahan lain namun tidak untuk memodifikasi yang telah ada. Dalam kasus ini class StreanProgressInfo.java diharapkan untuk dapat menghandle beberapa jenis file stream seperti File.java, Music.java dan bahkan jika ada class baru lainnya. Penyelesainnya adalah dengan cara membuat sebuah class interface dimana class ini dapat diimplementasikan oleh beberapa class dari jenis-jenis file stream. Jadi apabila terdapat class baru maka hanya dengan mengimplementasikan class interface tersebut. Untuk penggunaannya main program hanya perlu menggunakan class interface tersebut.
 ## 2. Graphic Editor
