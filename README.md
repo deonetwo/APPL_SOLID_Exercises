@@ -4,13 +4,13 @@ Project yang dibuat untuk memenuhi tugas mata kuliah Analisis Perancangan Prangk
 Nama  : Dewanto Joyo Pramono
 NIM   : 181524005
 
-#Penjelasan mengenai task yang telah diselesaikan
-##1. Stream Progress
+# Penjelasan mengenai task yang telah diselesaikan
+## 1. Stream Progress
 
-##2. Graphic Editor
+## 2. Graphic Editor
 
-##3. Detail Printer
+## 3. Detail Printer
 
-##4. Recharge
+## 4. Recharge
 
-##5. Security Door
+## . Security Door
